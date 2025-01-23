@@ -1,4 +1,4 @@
-## Library Management System 📚
+## Library Management System
 
 A web app for managing all the activities of a library like managing members and book transactions, built on MERN Stack
 ![1](https://user-images.githubusercontent.com/73348574/205624307-6a1b18fa-5ef7-4de9-b141-9225eca62c6c.png)
@@ -7,25 +7,25 @@ A web app for managing all the activities of a library like managing members and
 
 [Demo Link](https://drive.google.com/file/d/1gddUdOE41WaEyY4OWoJtDa0l6VJZTg94/view?usp=sharing)
 
-Show some ❤️ and 🌟 the repo to support the project
+Show some  and the repo to support the project
 
-## Index ✏️
+## Index 
 
-- [Library Management System 📚](#library-management-system-)
+- [Library Management System ](#library-management-system-)
   - [Video Demo](#video-demo)
-- [Index ✏️](#index-️)
-- [Features Of LCMS 🚀](#features-of-lcms-)
-- [Setup 🔥](#setup-)
-  - [Frontend Setup 🍧](#frontend-setup-)
-  - [Backend Setup 🍿](#backend-setup-)
-- [Technologies 🛠](#technologies-)
+- [Index ](#index-️)
+- [Features Of LCMS ](#features-of-lcms-)
+- [Setup ](#setup-)
+  - [Frontend Setup ](#frontend-setup-)
+  - [Backend Setup ](#backend-setup-)
+- [Technologies ](#technologies-)
 - [Screenshots](#screenshots)
-- [References 💻](#references-)
-- [Author 📝](#author-)
-- [Connect Me On 🌍](#connect-me-on-)
+- [References ](#references-)
+- [Author ](#author-)
+- [Connect Me On ](#connect-me-on-)
 
 
-## Features Of LCMS 🚀
+## Features Of LCMS 
 
 - Admin Login and Student Login
 - Admin and Student Dashboard
@@ -35,14 +35,14 @@ Show some ❤️ and 🌟 the repo to support the project
 - Reserving a book for specific dates
 - Showing the Achievements, Event Gallery
 
-## Setup 🔥
+## Setup 
 
 - Fork the Repo
 
 - Clone the repo to your local machine
   `git clone <repo-url>`
 
-### Frontend Setup 🍧
+### Frontend Setup 
 
 1. Get into the chatapp directory
    `cd frontend`
@@ -53,7 +53,7 @@ Show some ❤️ and 🌟 the repo to support the project
 
 4. Run `yarn start` to start the application
 
-### Backend Setup 🍿
+### Backend Setup 
 
 1. Get into backend directory `cd backend`
 
